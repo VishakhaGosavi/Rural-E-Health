@@ -52,7 +52,7 @@ It simplifies healthcare record management and improves communication among medi
 ## ⚙️ Setup Instructions
 
 1. Clone the repository  
-   `git clone https://github.com/Dishank002/Rural-E-Health.git`
+   `git clone https://github.com/VishakhaGosavi/Rural-E-Health`
 
 2. Open the project in **Eclipse IDE**.
 
